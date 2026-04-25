@@ -1,0 +1,16 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "GIS web application template",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy": "^1.18.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
